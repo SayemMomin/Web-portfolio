@@ -13,6 +13,10 @@ h2{
 .name-highlight{
     color: orange;
 }
+.reward-highlight{
+    color: violet;
+    background-color: rgb(238, 234, 234);
+}
 .half-width{
     width: 40%;
     float: left;
